@@ -57,4 +57,17 @@ li {
 
 .search-form {
   margin-bottom: 20px;
+} 
+
+footer {
+  text-align: center;
+  font-size: small;
+}
+
+a {
+  color: cornflowerblue;
+} 
+
+a:visited {
+  color: plum;
 }
